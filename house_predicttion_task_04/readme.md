@@ -6,7 +6,7 @@ This predictive analytics tool facilitates precise estimations, offering valuabl
 # Dataset
 The dataset used for this project is available on Kaggle. It includes information about houses such as longitude, latitude, housing median age, total rooms, total bedrooms, population, households, median income, ocean proximity, and median house value.
 
-Dataset link: House Price Forecasting Dataset
+Dataset link: https://www.kaggle.com/datasets/shibumohapatra/house-price
 
 # Project Structure
 The project includes the following files:
