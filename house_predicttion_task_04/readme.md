@@ -12,7 +12,9 @@ Dataset link: https://www.kaggle.com/datasets/shibumohapatra/house-price
 The project includes the following files:
 
 main.py: Python script containing the implementation of the house price forecasting model.
+
 README.md: This file, providing an overview of the project and instructions for use.
+
 1553768847-housing.csv: Dataset containing house information.
 # Usage
 To use the house price forecasting model:
